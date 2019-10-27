@@ -3,9 +3,10 @@ package warhouse;
 public class Test {
 
 	
-	private Integer empId;
+	private static  Integer empId =10;
+	private static String empName= "madhu";
+		
+	}
 	
-	private String empName;
 	
-	
-}
+
