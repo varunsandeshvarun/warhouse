@@ -2,10 +2,21 @@ package warhouse;
 
 public class Test {
 
-	
-	private static  Integer empId =10;
-	private static String empName= "madhu";
+	int  m1(){
 		
+	
+	int a=10;
+	
+	int b=46;
+	return 30;
+			
+			
+	
+	}
+	public static void main(String[] args) {
+		Test t= new Test();
+	}
+    	
 	}
 	
 	
